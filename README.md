@@ -7,3 +7,5 @@ NaG-IoT Contest, I built a smart lego house and meteo station.
 - Work with RPi
 - Advanced work with Arduino
 - How to build construction
+
+![Station](station1.jpg)
